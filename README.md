@@ -1,6 +1,6 @@
 # ConvertToUTF8
 
-Script feio em Python para mudança do encoding para UTF-8. Utilizando o Notepad++ para abrir o arquivo, trocar o encoding para UTF-8, salvar e fechar o arquivo.
+Script feito em Python para mudança do encoding para UTF-8. Utilizando o Notepad++ para abrir o arquivo, trocar o encoding para UTF-8, salvar e fechar o arquivo.
 
 **Ferramentas utilizadas:**
 * Notepad++ v6.8.1
